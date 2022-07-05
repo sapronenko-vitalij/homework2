@@ -1,0 +1,26 @@
+.todo-content {
+    border: 1px orange solid;
+    width: 300px;
+    padding: 10px 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    background-color: aliceblue;
+    
+}
+.todo {
+    border: 1px orange solid;
+    width: 400px;
+    padding: 10px 5px;
+    margin-bottom: 5px;
+    display: flex;
+    border-radius: 5px;
+    background-color: antiquewhite;
+   
+}
+.bold-text {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
